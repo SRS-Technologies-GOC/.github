@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/srs.png" width="400" />
+  <img src="assets/srs.png" width="500" />
 </p>
 
 <h1 align="center">SRS Technologies</h1>
