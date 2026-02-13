@@ -7,3 +7,5 @@
 <p align="center">
   ARE YOU READY FOR ZE THE NEW ORDER?
 </p>
+
+# new logo soon made by me and info
