@@ -5,7 +5,23 @@
 <h1 align="center">SRS Technologies</h1>
 
 <p align="center">
-  ARE YOU READY FOR ZE THE NEW ORDER?
+  ARE YOU READY FOR ZE THE NEW WORLD ORDER?
 </p>
 
 # new logo soon made by me and info
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# About SRS-Technologies
+
+This is the thing for code n shit for srs ig. why are you wasting your time reading this. luv u tho <3
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Public Repositories
+
+- Prism Launcher Theme: Click [\[HERE\]](https://github.com/SRS-Technologies-GOC/SRS-Technologies-PrismLauncher.git)
+
+- SRS-Technologies-PrismLauncher: Click [\[HERE\]](https://github.com/SRS-Technologies-GOC/SRS-Technologies-PrismLauncher.git)
