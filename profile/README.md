@@ -22,6 +22,6 @@ This is the thing for code n shit for srs ig. why are you wasting your time read
 
 # Public Repositories
 
-- Prism Launcher Theme: Click [\[HERE\]](https://github.com/SRS-Technologies-GOC/SRS-Technologies-PrismLauncher.git)
-
 - SRS-Technologies-PrismLauncher: Click [\[HERE\]](https://github.com/SRS-Technologies-GOC/SRS-Technologies-PrismLauncher.git)
+
+- SRS-Technologies-Texture-Pack: Click [\[HERE\]](https://github.com/SRS-Technologies-GOC/SRS-Technologies-Texture-Pack.git)
