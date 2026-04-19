@@ -8,7 +8,7 @@
   ARE YOU READY FOR ZE THE NEW WORLD ORDER?
 </p>
 
-# new logo soon made by me and info
+# logo was made in like 2m and its peak
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
