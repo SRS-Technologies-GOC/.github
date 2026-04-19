@@ -12,6 +12,8 @@
 
 - will add a "Main in Senegal" in the bottom left of it at some point
 
+just noticed i wrote main instead of made but its funny so im leaving it 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
